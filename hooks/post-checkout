@@ -1,1 +1,17 @@
-
+#!/bin/bash
+echo ""
+echo "=============================================="
+echo "  ⚠️  WARNING!  ⚠️"
+echo "=============================================="
+echo "  This project is the intellectual property"
+echo "  of Kirill638849776"
+echo ""
+echo "  PROHIBITED:"
+echo "  - Re-uploading this project to other repositories"
+echo "  - Distributing without a link to the author"
+echo "  - Claiming as your own"
+echo ""
+echo "  Violation = Block + DMCA Takedown Request"
+echo "  Original: https://github.com/Kirill638849776/catcmd"
+echo "=============================================="
+echo ""
